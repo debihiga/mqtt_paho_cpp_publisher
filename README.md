@@ -25,6 +25,7 @@ mosquitto_sub -h [broker's IP] -t [your topic]
 5) Open this project in MQTT
   - Change the IP in ADDRESS to your broker's IP (main.cpp)
   - Check the topic in TOPIC (main.cpp)
+
 6) Run
 
 ## Requirements
